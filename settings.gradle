@@ -1,0 +1,4 @@
+include ':dependenciesOther'
+include ':TestMultiShared'
+include ':app'
+rootProject.name = "CmakeTest"
